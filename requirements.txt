@@ -1,0 +1,5 @@
+pytest>=7.0
+requests>=2.28
+pytest --alluredir=allure-results
+allure serve allure-results
+
